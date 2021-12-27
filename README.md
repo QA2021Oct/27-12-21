@@ -10,3 +10,16 @@ class assignment:
     //2. create checked exception (create a new class called CeException that extends Exception )
     //and throw this new CeException from main.
     //**Etgar - take care that exception
+
+
+
+Home work:
+
+
+collections:
+
+write program for the following:
+Create ArrayList of Integers.
+Read all elements from ArrayList by using Iterator.
+Create duplicate ArrayList instance.
+Reverse ArrayList content into that new ArrayList.
