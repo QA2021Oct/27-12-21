@@ -18,7 +18,7 @@ Home work:
 exceptions:
 To the Doctor assignment Add custom exceptions. ( Exceptionts that you create your own).
 - doctorBusyException
-and use them in the 
+and use them in the acceptClient() function. insted of printind Doctor is busy, throw exception -doctorBusyException 
 
 collections:
 
